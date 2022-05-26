@@ -13,7 +13,7 @@ class GoogleCloudCicdDemoApplicationTests {
 
 	@Test
 	void shouldFail() {
-		Assertions.assertTrue(false);
+		Assertions.assertTrue(true);
 	}
 
 }
